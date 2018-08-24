@@ -11,3 +11,9 @@
 * Quick to manufacture.
 
 See Video for more information: https://www.youtube.com/watch?v=hUhisi2FBuw
+
+## Electrial Plug
+
+**Standard**: British Plugs
+
+See Video for more information: https://www.youtube.com/watch?v=UEfP1OKKz_Q
