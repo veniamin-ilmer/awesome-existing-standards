@@ -20,8 +20,8 @@ Top and worst qualities will be limited to just three for each.
 
 **Alternative Standards**: Cube, Hexagonal Prism, Sphere
 
-## Electrical Plug
+## [Electric Plug](electric-plug.md)
 
-**Standard**: British Plugs
+**Best Standard**: British Plugs
 
-See Video for more information: https://www.youtube.com/watch?v=UEfP1OKKz_Q
+**Alternative Standard**: American Plugs, European Plugs, add more here
