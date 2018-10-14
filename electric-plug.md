@@ -17,7 +17,7 @@ Brazilian | Optional | Yes | No | No
 United States | Optional | No | No | No
 Russian | Optional | Optional | No | No
 
-See Video for more information: https://www.youtube.com/watch?v=UEfP1OKKz_Q
+[See video for more information](https://www.youtube.com/watch?v=UEfP1OKKz_Q)
 
 <style>
   .worst { background-color: rgb(153, 255, 153); }
