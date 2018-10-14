@@ -8,17 +8,18 @@
 
 **Fused**: There is literally a fuse inside of the plug. You can unscrew the plug and replace the fuse.
 
- Nation | Grounded | Insulated Pins | Blocking Shutters | Fused
+Nation | Grounded | Insulated Pins | Blocking Shutters | Fused
 :---:|:---:|:---:|:---:|:---:
 British | Yes | Yes | Yes | Yes
-South African | Yes | Optional | Optional | <div class=.worst>No</div>
+South African | Yes | Optional | Optional | No
 European | Optional | Yes | Optional | No
 Brazilian | Optional | Yes | No | No
 United States | Optional | No | No | No
 Russian | Optional | Optional | No | No
+{: .main-table}
 
 [See video for more information](https://www.youtube.com/watch?v=UEfP1OKKz_Q)
 
 <style>
-  .worst { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr td:nth-child(2) { background-color: rgb(153, 255, 153); }
 </style>
