@@ -21,5 +21,5 @@ Russian | Optional | Optional | No | No
 [See video for more information](https://www.youtube.com/watch?v=UEfP1OKKz_Q)
 
 <style>
-  table.main-table tbody tr td:nth-child(2) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(2) { background-color: rgb(153, 255, 153); }
 </style>
