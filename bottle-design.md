@@ -1,11 +1,21 @@
 # Bottle and Metal Can Design
 
+**Cost**: Bulk manufacturing price.
+
+**Easy to hold/stand**: Easy to drink from and hold. Will stay in place if you put it on a table.
+
+**Weak Points**: Locations where the bottle/can could easily break. Usually this happens at edges.
+
+**Packing Volume**: How many cans/bottles can you stack together at once.
+
+**Inside Volume**: How much liquid you can fill inside vs the amount of material required to hold it.
+
 Design | Cost | Easy to hold/stand | Weak Points | Packing Volume | Inside Volume
 :---:|:---:|:---:|:---:|:---:|:---:
-Cylinder | Cheap | Yes | Few | High | High
-Hexagonal Prism | Cheap-ish | Yes | Many | Maximum | Medium-High
-Cube | Cheap | Yes | Many | Maximum | Medium
-Sphere | Expensive | No | None | Low | Maximum
+Cylinder | Low | Yes | Few | High | High
+Hexagonal Prism | Medium-High | Yes | Many | Maximum | Medium-High
+Cube | Medium | Yes | Many | Maximum | Medium
+Sphere | High | No | None | Low | Maximum
 
 ---
 
