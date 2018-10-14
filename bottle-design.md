@@ -16,6 +16,7 @@ Cylinder | Low | Yes | Few | High | High
 Hexagonal Prism | Medium | Yes | Many | Maximum | High
 Cube | Medium | Yes | Many | Maximum | Medium
 Sphere | High | No | None | Low | Maximum
+{: .main-table}
 
 ---
 
