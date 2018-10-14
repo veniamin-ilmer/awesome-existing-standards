@@ -12,15 +12,31 @@
 
 Design | Cost | Easy to hold/stand | Weak Points | Packing Volume | Inside Volume
 :---:|:---:|:---:|:---:|:---:|:---:
-Cylinder | Low | Yes | Few | High | High {: .good}
-Hexagonal Prism | Medium-High | Yes | Many | Maximum | Medium-High
-Cube | Medium | Yes | Many | Maximum {: .best} | Medium
-Sphere | High | No | None | Low | Maximum{: .best}
+Cylinder | Low | Yes | Few | High | High
+Hexagonal Prism | Medium | Yes | Many | Maximum | High
+Cube | Medium | Yes | Many | Maximum | Medium
+Sphere | High | No | None | Low | Maximum
 
 ---
 
 [See video for more information](https://www.youtube.com/watch?v=hUhisi2FBuw)
 
 <style>
-  .best { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(1) td:nth-child(2) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(1) td:nth-child(3) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(1) td:nth-child(4) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(1) td:nth-child(5) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(1) td:nth-child(6) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(2) td:nth-child(3) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(2) td:nth-child(4) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(2) td:nth-child(5) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(2) td:nth-child(6) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(3) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(4) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(5) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(2) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(3) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(4) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(5) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(6) { background-color: rgb(153, 255, 153); }
 </style>
