@@ -19,7 +19,7 @@ Sphere | High | No | None | Low | Maximum{: .best}
 
 ---
 
-See Video for more information: https://www.youtube.com/watch?v=hUhisi2FBuw
+[See video for more information](https://www.youtube.com/watch?v=hUhisi2FBuw)
 
 <style>
   .best { background-color: rgb(153, 255, 153); }
