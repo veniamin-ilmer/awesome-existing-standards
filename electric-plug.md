@@ -18,3 +18,7 @@ United States | Optional | No | No | No
 Russian | Optional | Optional | No | No
 
 See Video for more information: https://www.youtube.com/watch?v=UEfP1OKKz_Q
+
+<style>
+  .best { background-color: rgb(153, 255, 153); }
+</style>
