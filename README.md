@@ -8,11 +8,7 @@ I then do tons of research and get the best solution.
 
 Transfering to the best solution may be too costly, but it's good to acknowledge the solution nonetheless.
 
-Below are a list of standards I have researched, what are the alternatives.
-
-All standards are listed, based on my opinion, from best to worst.
-
-Top and worst qualities will be limited to just three for each.
+Below are a list of standards I have researched, what are the alternatives. Click to get a detailed table of benefits for each standard.
 
 ## [Bottle and Metal Can Design](bottle-design.md)
 
