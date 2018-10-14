@@ -11,7 +11,7 @@
  Nation | Grounded | Insulated Pins | Blocking Shutters | Fused
 :---:|:---:|:---:|:---:|:---:
 British | Yes | Yes | Yes | Yes
-South African | Yes | Optional | Optional | {: .worst} No
+South African | Yes | Optional | Optional | <div class=.worst>No</div>
 European | Optional | Yes | Optional | No
 Brazilian | Optional | Yes | No | No
 United States | Optional | No | No | No
