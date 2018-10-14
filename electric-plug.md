@@ -1,8 +1,10 @@
 # Electric Plug
 
-**Ground First**: Ground / Earth is the first metal to touch when connecting the cable, and the last metal to leave when disconnection the cable.
+**Ground First**
+: Ground / Earth is the first metal to touch when connecting the cable, and the last metal to leave when disconnection the cable.
 
-**Insulated Pins**: Pins have insulation at their base, so you can't accidently touch the metal when it is connected half way.
+Insulated Pins
+: Pins have insulation at their base, so you can't accidently touch the metal when it is connected half way.
 
 **Blocking shutters**: Stops children from sticking fingers into exposed holes.
 
