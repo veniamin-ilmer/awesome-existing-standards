@@ -1,7 +1,7 @@
 # Bottle and Metal Can Design
 
 Design | Cost | Easy to hold/stand | Weak Points | Packing Volume | Inside Volume
-:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:
 Cylinder | Cheap | Yes | Few | High | High
 Hexagonal Prism | Cheap-ish | Yes | Many | Maximum | Medium-High
 Cube | Cheap | Yes | Many | Maximum | Medium
