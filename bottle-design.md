@@ -15,7 +15,7 @@ Design | Cost | Easy to hold/stand | Weak Points | Packing Volume | Inside Volum
 Cylinder | Low | Yes | Few | High | High
 Hexagonal Prism | Medium-High | Yes | Many | Maximum | Medium-High
 Cube | Medium | Yes | Many | Maximum {: .best} | Medium
-Sphere | High | No | None | Low | Maximum {: .best}
+Sphere | High | No | None | Low | Maximum{: .best}
 
 ---
 
