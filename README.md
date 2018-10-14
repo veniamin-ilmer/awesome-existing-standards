@@ -22,6 +22,6 @@ Top and worst qualities will be limited to just three for each.
 
 ## [Electric Plug](electric-plug.md)
 
-**Best Standard**: British Plugs
+**Best Standard**: British
 
-**Alternative Standard**: American Plugs, European Plugs, add more here
+**Alternative Standard**: South African, European, Brazilian, United States, Russian
