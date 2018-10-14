@@ -27,14 +27,14 @@ United States | Optional | No | No | No
   table.main-table tbody tr:nth-child(1) td:nth-child(5) { background-color: rgb(153, 255, 153); }
   table.main-table tbody tr:nth-child(2) td:nth-child(2) { background-color: rgb(153, 255, 153); }
   table.main-table tbody tr:nth-child(2) td:nth-child(5) { background-color: rgb(255, 153, 153); }
-  table.main-table tbody tr:nth-child(3) td:nth-child(3) { background-color: rgb(255, 153, 153); }
-  table.main-table tbody tr:nth-child(3) td:nth-child(5) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(4) td:nth-child(3) { background-color: rgb(255, 153, 153); }
-  table.main-table tbody tr:nth-child(4) td:nth-child(4) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(4) td:nth-child(5) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(5) td:nth-child(4) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(5) td:nth-child(5) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(6) td:nth-child(3) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(6) td:nth-child(4) { background-color: rgb(153, 255, 153); }
-  table.main-table tbody tr:nth-child(6) td:nth-child(5) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(3) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(3) td:nth-child(5) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(3) { background-color: rgb(153, 255, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(4) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(4) td:nth-child(5) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(5) td:nth-child(4) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(5) td:nth-child(5) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(6) td:nth-child(3) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(6) td:nth-child(4) { background-color: rgb(255, 153, 153); }
+  table.main-table tbody tr:nth-child(6) td:nth-child(5) { background-color: rgb(255, 153, 153); }
 </style>
