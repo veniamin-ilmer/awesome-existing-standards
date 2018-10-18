@@ -55,7 +55,7 @@ Although Adam continued to have near 100% of the vote, only 15% of the people vo
 
 ![50, 30, 50](approval/adam_charles.png)
 
-Here is where things started getting suprising for me.
+Here is where things started to get suprising for me.
 
 Bill is unlikely to win the vote.
 
