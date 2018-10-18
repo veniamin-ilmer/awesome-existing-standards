@@ -25,7 +25,7 @@ The survey instructs:
 * Bill has an OK plan
 * You hate Charles' plan
 
-The idea is that you'd rate Adam positively, Bill Neutrally, and Charles Negatively.
+The idea is that you'd rate Adam positively, Bill neutrally, and Charles negatively.
 
 It then goes through several different scenarios of you knowing what the favorability polls look like for each of these candidates, and asks, how you'd vote for each person.
 
