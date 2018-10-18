@@ -90,6 +90,4 @@ It feels as if people don't want to vote for the losing candidate, regardless if
 
 This survey was exciting. I intend to do more of these, testing out different forms of voting, and eventually provide a comparison of all of them.
 
-My next survey is focused on [Score Voting](https://en.wikipedia.org/wiki/Score_voting).
-
-[Please feel free to fill it out](https://docs.google.com/forms/d/e/1FAIpQLSdEKCGuxMN1-2tGkLDmw4oe-5Q0jHCQ7hDnNcY7vbAkdKKWmQ/viewform)
+Please feel free to fill out my [next survey](https://docs.google.com/forms/d/e/1FAIpQLSdEKCGuxMN1-2tGkLDmw4oe-5Q0jHCQ7hDnNcY7vbAkdKKWmQ/viewform), focused on [Score Voting](https://en.wikipedia.org/wiki/Score_voting).
