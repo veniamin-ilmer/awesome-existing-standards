@@ -11,7 +11,7 @@ The idea is that instead of just voting for your favorite person, you'd vote for
 Potentially the most "approved", but not necessarily the most "favorited" person would win the election.
 This may lead to more moderate candidates to win.
 
-Anyway, all of this sounds good in theory, but I decided to test out how people make such decisions, assuming they know what the polls for each candidate look like.
+This all sounds good in theory, but I decided to test out how people make such decisions, assuming they know what the polls for each candidate look like.
 
 ## Survey
 
