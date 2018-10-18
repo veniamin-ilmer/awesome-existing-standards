@@ -45,9 +45,11 @@ As seen in the stats, Adam gets 100% of the votes, while Bill gets only a fourth
 
 ![50, 50, 30](approval/adam_bill.png)
 
-Here the situation is very similar to the equal favorability rates, except that Charles is unlikely to win, and Adam and Bill are relatively in direct competition with eachother.
+Here the situation is very similar to the equal favorability rates, except that Charles is unlikely to win, and Adam and Bill are in direct competition with eachother.
 
-Hence, although Adam continued to have near 100% of the vote, only 15% of the people voted for Bill.
+As a result, people are less likely to vote for Bill.
+
+Although Adam continued to have near 100% of the vote, only 15% of the people voted for Bill.
 
 ### Adam and Charles have higher Favorability Rates
 
