@@ -76,7 +76,7 @@ Per theory, the answer was supposed to be an overwhelming "yes". Why not vote fo
 
 But as you can see from the results, the votes tell a different story.
 
-This has been the first time no candidate got 100% of the votes.
+This has been the first time no candidate got near 100% of the votes.
 
 Even though both candidates could have been voted on at the same time, the neutral candidate still got more votes than the favorable one.
 
