@@ -35,7 +35,7 @@ Let me start with the simplest situation:
 
 ### Equal Favorability Rates
 
-![50, 50, 50](approval\equal.png)
+![50, 50, 50](approval/equal.png)
 
 Because all candidates are equal, voting for *both* Adam and Bill, may increase the possibility that Bill would be chosen over Adam, hence there's an incentive to vote for Adam more frequently than Bill.
 
@@ -43,7 +43,7 @@ As seen in the stats, Adam gets 100% of the votes, while Bill gets only a fourth
 
 ### Adam and Bill have higher Favorability Rates
 
-![50, 50, 30](approval\adam_bill.png)
+![50, 50, 30](approval/adam_bill.png)
 
 Here the situation is very similar to the equal favorability rates, except that Charles is unlikely to win, and Adam and Bill are relatively in direct competition with eachother.
 
@@ -51,7 +51,7 @@ Hence, although Adam continued to have near 100% of the vote, only 15% of the pe
 
 ### Adam and Charles have higher Favorability Rates
 
-![50, 30, 50](approval\adam_charles.png)
+![50, 30, 50](approval/adam_charles.png)
 
 Here is where things started getting suprising for me.
 
@@ -65,7 +65,7 @@ It feels as if that 20% a "eh" kind of vote that any neutral candidate will get,
 
 ### Bill and Charles have higher Favorability Rates
 
-![30, 50, 50](approval\bill_charles.png)
+![30, 50, 50](approval/bill_charles.png)
 
 Here is the most interesting result. What happens if your favorite candidate has a low chance of winning?
 Will you still vote for him?
