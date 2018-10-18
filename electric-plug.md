@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/default.css">
+
 # Electric Plug
 
 Ground First
