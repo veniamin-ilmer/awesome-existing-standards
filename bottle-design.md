@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/default.css">
+
 # Bottle and Metal Can Design
 
 **Cost**: Bulk manufacturing price.
