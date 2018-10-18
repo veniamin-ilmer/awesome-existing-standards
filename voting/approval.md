@@ -72,6 +72,7 @@ It feels as if that 20% a "eh" kind of vote that any neutral candidate will get,
 ![30, 50, 50](approval/bill_charles.png)
 
 Here is the most interesting result. What happens if your favorite candidate has a low chance of winning?
+
 Will you still vote for him?
 
 Per theory, the answer was supposed to be an overwhelming "yes". Why not vote for your favorite? You've got nothing to lose!
