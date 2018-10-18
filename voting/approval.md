@@ -2,7 +2,7 @@
 
 ## Background
 
-[Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) allows to vote for more than one person.
+[Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) allows to vote for more than one candidate for an election.
 
 The idea is that instead of just voting for your favorite person, you'd vote for everyone you'd approve of.
 
