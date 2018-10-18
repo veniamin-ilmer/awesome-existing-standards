@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/default.css">
+
 # Standards Research
 
 From time to time, I wonder: Is this the best standard?
