@@ -56,7 +56,7 @@ I feel people have a harder grasp of Neutral, Zero, or Null, compared to Positiv
 
 It sounds like if your going to do score rating, you might as well simply allow for optional Upvotes and Downvotes, like in Reddit or YouTube, rather than allowing for a third middle tier.
 
-It would be interesting to see if people would have valued a rank system with "1,2,3" significantly differently than a system with "-1,0,1".
+It would be interesting to see if people would have valued a rank system with "1,2,3" significantly different than a system with "-1,0,1".
 
 ### Adam and Bill have higher Favorability Rates
 
