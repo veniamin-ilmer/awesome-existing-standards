@@ -138,6 +138,12 @@ I looked through all the individual votes, and the answer is a definite *no*:
 
 This further shows, most people voted positively for both Adam and Bill.
 
+You can also see, everyone who voted negatively for Bill, voted positively for Adam.
+
+It feels like these voters are hoping, against odds, that their favorite candidate will win against the neutral candidate..
+
+They do this, even though it may cause Charles to end up with a slightly higher score compared to Bill.
+
 ---
 
 This survey was exciting. I intend to do more of these, testing out different forms of voting, and eventually provide a comparison of all of them.
