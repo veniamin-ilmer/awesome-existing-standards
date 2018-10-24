@@ -4,7 +4,7 @@
 
 ## Background
 
-[Score Voting](https://en.wikipedia.org/wiki/Score_voting), also known as Range Voting, allows to write a score for each candidate in an election.
+[Score Voting](https://en.wikipedia.org/wiki/Score_voting), also known as Range Voting, allows to vote for a candidate, using a score.
 
 The "scores" can range from something like giving a number from 0 to 10, to simple "upvoting" and "downvoting" each candidate.
 
