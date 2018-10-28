@@ -126,12 +126,12 @@ This last question is very similar to the 9..1 question, and was just meant to a
 
 How will people vote for the neutral candidate, if there is no absolute "middle" option.
 
-![6..1](six_to_one.png)
+![6..1](numeric_types/six_to_one.png)
 
 As you can see in the chart, people mostely divided their neutral votes between the two central numbers 3 and 4.
 
 However, the positive bias is visible for the neutral candidate. Adding up the candidate's score gives us a 15% positive score.
 
-Otherwise, the noise, albeit smaller than in the 9..1 case, continues to be visible.
+The noise, albeit smaller than in the 9..1 case, continues to be visible.
 
 The 3,2,1 scoring system seems better than this 6..1 system for rating absolutes.
