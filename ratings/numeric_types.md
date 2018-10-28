@@ -59,7 +59,7 @@ They end up voting the Neutral candidate positively, almost to spite the Negativ
 ### Voting Positive (+1), Neutral (0), Negative (-1)
 This vote was very similar to the previous one, except that the "Neutral (0)" option was added, and the user had to answer the question. (it was no longer optional).
 
-![Positive, Neutral, Negative](positive_neutral_negative.png)
+![Positive, Neutral, Negative](numeric_types/positive_neutral_negative.png)
 
 The requirement to make an answer, seems to have introduced noise to the positive and negative candidate answers. The "incorrect" answers for the positive and negative candidates rose to about 15% (up from only 2% in the optional Upvote/Downvote round.)
 
@@ -80,14 +80,58 @@ This voting system is exactly the same as the previous Positive, Neutral, and Ne
 
 The user is instructed: Bigger number is better. Smaller number is worse.
 
-![3, 2, 1](positive_neutral_negative_2.png)
+![3, 2, 1](numeric_types/positive_neutral_negative_2.png)
 
 It sounds like simply renaming the votes to be a 3, 2, 1 model instead of +1, 0, -1 model, solved previous problems with the neutral candidate.
 
 Now all three candidates have very similar maximums, all averaging at around 90%.
+
+Changing Neutral to a "normal looking" number like 2, made the "neutral" candidate have a high neutral score. It also made the Neutral candidate's positive and negative votes about equal.
 
 It sounds like my idea was right: People have difficulty assessing the value of 0 or Neutral, and prefer to have a scoring system that starts at 1.
 
 Not only does the Neutral candidate have a normal looking score compared to the other candidates, but also the potential decreased abiguity has caused the Positive and Negative candidate's scores to go up slightly as well. There is reduced noise.
 
 Based on this experience, it sounds like the best way rating system should involve this 3, 2, 1 rating system, and to probably make the rating optional.
+
+### Voting 9..1
+The next voting system was meant to see if increasing the number of options would hurt or help the signal to noise ratio of the rating.
+
+I gave users the ability to vote on a longer scale. Instead of providing just three options, they were given nine.
+
+As before, the user was instructed: Bigger number is better. Smaller number is worse.
+
+![9..1](numeric_types/nine_to_one.png)
+
+Per this chart, it seems adding more options has definitely added more noise into the system.
+
+Although users had clear information about which candidate they like, dislike, and remain neutral to, the variety of options made all answers turn into a bell curve distribution.
+
+Varying users have varying opinions regarding what an "8 out of 9" means, for example, and would hence vote differently, even though they are given the same information.
+
+Several additional noise problems occurred:
+
+The "Neutral" candidate has the lowest amount of agreement, with the most central option only being chosen 40% of the time.
+
+Additionally, on average the Neutral candidate got more Positive than Negative votes.
+
+Adding up all the votes of the Neutral candidate gets us to a 27% positive rating.
+
+This is the same problem that we've seen earlier with Upvotes and Downvotes, and is noise that we're trying to avoid.
+
+Overall, this shows me that a 3,2,1 voting system is superior, as otherwise there are just too many options for users to choose.
+
+### Voting 6..1
+This last question is very similar to the 9..1 question, and was just meant to answer a small curiosity of mine:
+
+How will people vote for the neutral candidate, if there is no absolute "middle" option.
+
+![6..1](six_to_one.png)
+
+As you can see in the chart, people mostely divided their neutral votes between the two central numbers 3 and 4.
+
+However, the positive bias is visible for the neutral candidate. Adding up the candidate's score gives us a 15% positive score.
+
+Otherwise, the noise, albeit smaller than in the 9..1 case, continues to be visible.
+
+The 3,2,1 scoring system seems better than this 6..1 system for rating absolutes.
