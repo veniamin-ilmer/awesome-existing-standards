@@ -37,7 +37,7 @@ Let me start with the simplest situation:
 ### Upvotes and Downvotes
 The user can either "Upvote" or "Downvote" any candidate. They can also choose not to vote.
 
-![Upvote Downvote](upvote_downvote.png)
+![Upvote Downvote](numeric_types/upvote_downvote.png)
 
 Although the users were instructed that voting is optional, most of them voted for all candidates anyway. (98% answered for the positive candidate, 84% answered for the neutral candidate, 96% answered for the negative candidate).
 
