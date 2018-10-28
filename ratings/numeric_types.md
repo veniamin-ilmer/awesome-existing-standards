@@ -26,11 +26,31 @@ The idea is that you'd rate Abigale positively, Britney neutrally, and Courtney 
 
 Each of these candidates has an equal chance to win the vote.
 
-The survey then asks how the user would vote, given multiple
+The survey then asks how the user would vote, given varing rating options.
 
 ## Results
 
-I collected about 100 responses. The results were suprising.
+I collected 308 responses.
 
 Let me start with the simplest situation:
+
+### Upvotes and Downvotes
+The user can either "Upvote" or "Downvote" any candidate. They can also choose not to vote.
+
+![Upvote Downvote](upvote_downvote.png)
+
+Although the users were instructed that voting is optional, most of them voted for all candidates anyway. (98% answered for the positive candidate, 84% answered for the neutral candidate, 96% answered for the negative candidate).
+
+This might have been for two reasons:
+
+1. Although it's optional, asking someone a question may make them more likely to try to answer it anyway.
+2. All of the other questions were not optional, which may have gotten the user to get used to try and answer all questions.
+
+The most interesting result was with the Neutral candidate.
+
+Subtracting the Positive and Negative vote, the Neutral candidate ends up with an overwhelming 54% Positive vote.
+
+It seems people have difficulty understanding that a balanced "Neutral" vote, is still better than a "Downvote".
+
+They end up voting the neutral candidate positively, almost to spite the Negative candidate more.
 
